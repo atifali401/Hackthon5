@@ -12,7 +12,7 @@ export default function Footer() {
         </h3>
         <div className="max-sm:ml-[0px] max-sm:mt-[2px] 4 w-[349px] h-[108px] gap-[14px] relative ml-[950px] mt-[-50px] ">
         <input  type="email" className="max-sm:w-[311px] max-sm:h-[42px] max-sm:left-[0px]  bg-[#F0F0F0] rounded-[62px] relative pt-[12px] pr-[16px] pb-[12px] pl-[16px] " placeholder="Enter your email address"></input>
-        <button className=" max-sm:h-[42px] max-sm:w-[311px] max-sm:mb-[8px]  bg-[#F0F0F0] text-[16px] font-medium rounded-[62px] relative pt-[12px] pr-[16px] pb-[12px] pl-[16px] mt-2 leading-[21.6px] text-[#000000] " type="search" placeholder="Subscribe to Newsletter "></button>{/* input replce wd button */}
+        <input className=" max-sm:h-[42px] max-sm:w-[311px] max-sm:mb-[8px]  bg-[#F0F0F0] text-[16px] font-medium rounded-[62px] relative pt-[12px] pr-[16px] pb-[12px] pl-[16px] mt-2 leading-[21.6px] text-[#000000] " type="search" placeholder="Subscribe to Newsletter "></input>
 
       </div>
       </div>
